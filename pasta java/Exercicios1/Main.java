@@ -1,3 +1,4 @@
+package Exercicios1;
 public class Main {
     public static void main(String[] args) {
         Produto prod1 = new Produto();
